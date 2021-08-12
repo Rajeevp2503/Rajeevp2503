@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Android developer from India</h3>
 
 - 📫 How to reach me **rajeevp2503@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/rajeev-prasad-19b9b21ba/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
